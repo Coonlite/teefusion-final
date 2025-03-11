@@ -14,7 +14,7 @@ export default function Home() {
             </video>
             <div
                 className="absolute z-1 left-1/2 top-1/2 transform -translate-x-1/2 -translate-y-1/2 flex flex-col items-center justify-center gap-7">
-                <h1>Ты Питух</h1>
+                <h1>Ты Питухч</h1>
                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ad corporis cumque error, impedit magnam
                     natus necessitatibus quaerat quidem sunt voluptates. Assumenda dicta dolorum, ex iusto perspiciatis
                     quasi quia ratione sapiente?</p>
