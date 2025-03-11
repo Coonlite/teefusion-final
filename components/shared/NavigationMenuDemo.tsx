@@ -69,17 +69,17 @@ export function NavigationMenuDemo() {
                         priority
                     />
                 </Link>
-                <Link href="/docs" legacyBehavior passHref>
+                <Link href="#" legacyBehavior passHref>
                     <NavigationMenuLink className="bg-background text-xl nav-menu_link">
                         Главная
                     </NavigationMenuLink>
                 </Link>
-                <Link href="/docs" legacyBehavior passHref>
+                <Link href="#" legacyBehavior passHref>
                     <NavigationMenuLink className="bg-background text-xl nav-menu_link">
                         Серверы
                     </NavigationMenuLink>
                 </Link>
-                <Link href="/docs" legacyBehavior passHref>
+                <Link href="#" legacyBehavior passHref>
                     <NavigationMenuLink className="bg-background text-xl nav-menu_link">
                         Донат
                     </NavigationMenuLink>
